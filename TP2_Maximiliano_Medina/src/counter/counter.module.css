@@ -1,0 +1,24 @@
+.counter {
+  padding: 20px;
+}
+
+.button {
+  border-style: solid;
+  color: #5bad42;
+  border-color: #5bad42;
+  margin-left: 40px;
+  border-radius: 10px;
+  padding: 8px;
+  font-weight: bold;
+  font-size: 1em;
+}
+
+.count {
+  margin-left: 40px;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.date{
+  
+}
