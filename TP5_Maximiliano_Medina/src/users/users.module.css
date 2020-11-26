@@ -1,0 +1,46 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  background-color: #fcfcfc;
+}
+
+.content {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+}
+
+.principal {
+  margin-top: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  background-color: #0c0c0c;
+  color: white;
+  min-height: 180px;
+  border-radius: 20px;
+  justify-content: center;
+}
+
+.button {
+  margin-top: 15px;
+  margin-left: 15px;
+  border-style: none;
+  border-radius: 7px;
+  height: 30px;
+  width: 10%;
+  font-size: 13px;
+  font-weight: bold;
+  background-color: #5bad42;
+}
+
+.text1 {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.text2 {
+  margin-top: 10px;
+  font-size: 1em;
+  font-weight: bold;
+}

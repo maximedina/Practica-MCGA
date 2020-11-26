@@ -1,0 +1,9 @@
+.cell {
+  border-radius: 5px;
+  margin-bottom: 10px;
+  background-color: white;
+  padding: 5px;
+  color: #333333;
+  font-size: 0.8em;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}

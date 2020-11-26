@@ -1,0 +1,49 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  background-color: #fcfcfc;
+}
+
+.content {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+}
+
+.principal {
+  margin-top: 20px;
+  padding-left: 20px;
+  display: flex;
+  flex-direction: column;
+  background-color: #0c0c0c;
+  color: white;
+  min-height: 180px;
+  border-radius: 20px;
+  justify-content: center;
+  width: 250px;
+}
+
+.dataInput{
+  border-style: none;
+  width: 90%;
+  background-color: #FFFFFF;
+  color: #000000;
+}
+
+.button {
+  margin-top: 15px;
+  margin-left: 15px;
+  border-style: none;
+  border-radius: 7px;
+  height: 30px;
+  width: 30%;
+  font-size: 13px;
+  font-weight: bold;
+  background-color: #5bad42;
+}
+
+.text2 {
+  margin-top: 10px;
+  font-size: 1em;
+  font-weight: bold;
+}
